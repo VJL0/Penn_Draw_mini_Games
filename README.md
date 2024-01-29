@@ -1,2 +1,1 @@
-"# Penn_Draw_mini_Games" 
-You might need to run 'PennDraw.java' first, then you would be able to fun the other four games. 
+You might need to run 'PennDraw.java' first, and then you would be able to run the other four games. 
